@@ -1,8 +1,0 @@
-C:\Users\Manish\Downloads\Eye\Eye\Temp\bin\Debug\SteamVR_Input_Editor.dll
-C:\Users\Manish\Downloads\Eye\Eye\Temp\bin\Debug\SteamVR_Input_Editor.pdb
-C:\Users\Manish\Downloads\Eye\Eye\Temp\bin\Debug\SteamVR.pdb
-C:\Users\Manish\Downloads\Eye\Eye\obj\Debug\SteamVR_Input_Editor.csproj.AssemblyReference.cache
-C:\Users\Manish\Downloads\Eye\Eye\obj\Debug\SteamVR_Input_Editor.csproj.CoreCompileInputs.cache
-C:\Users\Manish\Downloads\Eye\Eye\obj\Debug\SteamVR_.EFF5ACC4.Up2Date
-C:\Users\Manish\Downloads\Eye\Eye\obj\Debug\SteamVR_Input_Editor.dll
-C:\Users\Manish\Downloads\Eye\Eye\obj\Debug\SteamVR_Input_Editor.pdb
