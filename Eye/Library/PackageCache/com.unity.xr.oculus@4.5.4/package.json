@@ -1,0 +1,36 @@
+{
+  "name": "com.unity.xr.oculus",
+  "displayName": "Oculus XR Plugin",
+  "version": "4.5.4",
+  "unity": "2022.3",
+  "unityRelease": "1f1",
+  "description": "Provides display and input support for Oculus devices.",
+  "keywords": [
+    "oculus",
+    "xr",
+    "vr",
+    "virtual",
+    "rift",
+    "quest",
+    "xreditorsubsystem"
+  ],
+  "dependencies": {
+    "com.unity.xr.management": "4.4.0",
+    "com.unity.modules.androidjni": "1.0.0"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/xr.sdk.oculus.git",
+    "type": "git",
+    "revision": "2fe6646feef794b539bd6412468fed6cacb884ba"
+  },
+  "relatedPackages": {
+    "com.unity.xr.oculus.tests": "4.5.4"
+  },
+  "_upm": {
+    "changelog": "### Changed\n- macOS binaries are now code signed\n- Added dependency on `com.unity.modules.androidjni`\n\n### Known Issues\n- `Unity.XR.Oculus.Stats.PerfMetrics` entries currently return `0` when using the OpenXR runtime\n- `Unity.XR.Oculus.Stats.AppMetrics` entries return `0` on all Oculus runtimes\n- For both of the above, the suggested replacement is to use the profiling tools available via the Oculus Developer Hub: https://developer.oculus.com/documentation/unity/ts-odh-logs-metrics/\n- `Acceleration` and `AngularAcceleration` values on tracked poses currently return `0` when using the OpenXR runtime.  This is a limitation of the OpenXR API"
+  },
+  "upmCi": {
+    "footprint": "a59ba116d9389b476d72fb78aca0691c4bf160ec"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.oculus@4.5/manual/index.html"
+}
